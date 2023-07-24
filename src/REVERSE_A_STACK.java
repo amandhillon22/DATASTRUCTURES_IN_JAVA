@@ -14,11 +14,14 @@ public class REVERSE_A_STACK {
             
             if(s.equals(""))
             {
+                System.out.println("Enter Something");
                 break;
             }
-            st.push(s);
-//            System.out.println(st);
-            break;
+            else
+            {
+               st.push(s);
+               System.out.println(st);
+            }
         }
         
         while(!st.isEmpty())
@@ -28,3 +31,24 @@ public class REVERSE_A_STACK {
     }
     
 }
+
+//In this case, the user enters three names ("John Doe," "Alice," and "Bob"). 
+//The program pushes each name into the stack and prints the
+//current state of the stack after each push. 
+//When the user presses Enter without entering any name, the loop breaks,
+//and then the program proceeds to the second loop, where
+//it pops and prints the elements from the stack in reverse order, 
+//resulting in "Bob," "Alice," and "John Doe" being printed.
+
+
+
+//    String a="a";
+//        String m="m";
+//        String r="r";
+//        String t="t";
+//        
+//        Stack<String> st2= new Stack<>();
+//        st2.push(a);
+//        st2.push(m);
+//        st2.push(r);
+//        st2.push(t);
