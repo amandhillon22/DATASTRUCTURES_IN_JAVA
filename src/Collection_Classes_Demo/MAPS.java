@@ -16,3 +16,8 @@ public class MAPS {
     }
     
 }
+
+// same code for TreeMap and LinkedHashMap
+// in HashMap the order will be random,
+// in TreeMap there will be ascending order
+// in LinkedhashMap there will be inserion order
