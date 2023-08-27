@@ -1,5 +1,7 @@
 
-package String_Programs;
+package Prime_Number_Programs;
+
+import String_Programs.*;
 
 
 public class Check_Prime_Method_1 {
