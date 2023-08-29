@@ -1,9 +1,6 @@
 
 package Prime_Number_Programs;
 
-import String_Programs.*;
-
-
 public class Prime_Number_GoldBatch_Question {
     public static void main(String[] args) {
         int n=10;
