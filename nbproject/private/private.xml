@@ -3,48 +3,56 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Concat_Union_Two_Arrays.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/printFrequency.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Intersection_of_Two_Arrays_LEETCODE_Q349.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Prime_Numbers_Kehra_Number_Kinwa.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Prime_Number_GoldBatch_Question.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Prime_Numbers_Kinwa_Number_Kehra_Black_n_Green_8Lac_Co_Ques.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Reverse_An_Array.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Copying_Array.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Check_Prime_Method_2.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Collection_Classes_Demo/ARRAYLIST_2.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Check_Monotonic_Array.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Nearest_Number_Divisible.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Keypad_Numbers.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Power_Tail.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/String_Reverse.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Series_10_to1.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Substring_of_Particular_Size.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Convert_To_Initials.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Multiple_Missing_Numbers.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Display_Twin_Prime_Numbers.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Sum_of_10_digits.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Check_Anagram.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Weight_ofEach_Word.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Every_Possible_Unique_Substring.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Check_Duplicates_in_Array_LEETCODE_Q217.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Basic_Recursion_Program1.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Array_Demo.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Convert_to_Pallindrome.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Display_Primes_In_A_Certain_Range.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/ExchangeWord.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Array_Palendrome_or_Not.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/String_Reverse_Using_Tokenizer.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Array_Check_Target_Sum.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Reverse_String_Using_Split.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Missing_Characters_in_Panagram.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Word_Frequency_Black_n_Green_Question_2022.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Check_Prime_Method_1.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Short_Form.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Missing_Number_in_Array.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Series_1_10_1.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Running_Sum_LEETCODE_Q1480.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Concat_Union_Two_Arrays.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Intersection_of_Two_Arrays_LEETCODE_Q349.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Prime_Numbers_Kehra_Number_Kinwa.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Prime_Number_GoldBatch_Question.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Check_Prime_Method_2.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Series_1_to_10.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Collection_Classes_Demo/ARRAYLIST_2.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Check_Monotonic_Array.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Nearest_Number_Divisible.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Keypad_Numbers.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Convert_To_Initials.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Display_Twin_Prime_Numbers.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Weight_ofEach_Word.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Array_Check_Target_Sum.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Missing_Characters_in_Panagram.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Arrange_In_Alphabetical_Order.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Reverse_EachWord.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Longest_Word.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Prime_Number_Programs/Check_Prime_Method_3.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Char_Array_Reverse_LEETCODE_Q344.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Missing_Number_in_Array.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/String_Programs/Every_Possible_Substring.java</file>
             <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Array_Rotate_Last_Element_To_Front.java</file>
-            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Array_Class_Programs/Running_Sum_LEETCODE_Q1480.java</file>
+            <file>file:/C:/Users/amanj/Documents/NetBeansProjects/DATA_STRUCTURES_AND_ALGORITHMS_IN_JAVA/DSA_IN_JAVA/DSA/DATASTRUCTURES_IN_JAVA/src/Recursion_Programs/Power_Head.java</file>
         </group>
     </open-files>
 </project-private>

@@ -1,12 +1,12 @@
 
 package Prime_Number_Programs;
 
-import String_Programs.*;
+
 
 
 public class Check_Prime_Method_3 {
     public static void main(String[] args) {
-        int n=1;
+        int n=13;
         System.out.println(isPrime(n));
     }
     

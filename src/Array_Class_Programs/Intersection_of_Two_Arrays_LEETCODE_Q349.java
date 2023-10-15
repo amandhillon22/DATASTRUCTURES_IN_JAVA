@@ -23,6 +23,7 @@ public class Intersection_of_Two_Arrays_LEETCODE_Q349 {
             al2.add(i);
         
         al1.retainAll(al2);
+        System.out.println(al1);
         
         HashSet<Integer> hs = new HashSet<>();
         for(int i:al1)
